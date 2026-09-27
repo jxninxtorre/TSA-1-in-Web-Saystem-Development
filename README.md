@@ -19,4 +19,4 @@ Sundin ang mga hakbang na ito para ma-run ang project sa iyong local machine:
 
 ### 1. Clone o Download ang Repository
 ```bash
-git clone [https://github.com/jxninxtorre/POS-CodeIgniter-TFA2.git](https://github.com/jxninxtorre/POS-CodeIgniter-TFA2.git)
+git clone [https://github.com/jxninxtorre/POS-CodeIgniter-TFA2.git](https://github.com/jxninxtorre/POS-CodeIgniter-TSA1.git)
